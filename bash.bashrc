@@ -1,3 +1,4 @@
+termux-wake-lock
 termux-wake-unlock
 sshd
 
