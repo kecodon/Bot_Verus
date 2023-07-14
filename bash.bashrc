@@ -20,7 +20,7 @@ echo "load...  start ubuntu mining coin✓ ";
 sleep 2
 
 cd ccminer
-./ccminer -a verus -o stratum+tcp://na.luckpool.net:3956 -u RTXEc1psFBnPwEDZ9dYi3s1fskRGfaWkXA.live42 -p x -t 8
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RTXEc1psFBnPwEDZ9dYi3s1fskRGfaWkXA.live42 -p x -t 8
 
 #   exec command immediately.
 # - Do not save to history commands starting
