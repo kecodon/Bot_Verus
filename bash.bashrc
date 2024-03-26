@@ -3,6 +3,9 @@ sshd
 
 echo "( ~~Tool auto start mining ~~ )";
 sleep 3
+#cd
+#chmod u+x rqiner-aarch64-mobile
+#./rqiner-aarch64-mobile -i KZQLBMTSXRECVADVKJYIQIOIDTAAQNIJCNSIWNWLCDEKBGVUYLKUTXQGVSWK -t 12 --label S8
 #cd xmrig/build
 #./xmrig -o sg-zephyr.miningocean.org:5332 -a rx/0 -u ZEPHs87SZqvSfAuB2h39KpVbMVRPL98jqi7H7Z5DSmtMYM8hRU4waiAPKQA9gyKPKphHCu7b1XXqtZ8DGxAuzJm1Qkryz9xv96n -p pc1 -k
 #./xmrig -o gulf.moneroocean.stream:10128 -a rx/0 -u 45BksJdssCV3nrUN6edinZWMxFMypn42KjdTEeTVy9eDVUeGxfZrEobZoA7hxcQJxSAko5mr4qxSd9aHcSTxLLWmE4YH8JE.ryzen -p x
