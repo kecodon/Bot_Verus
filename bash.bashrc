@@ -8,6 +8,7 @@ sleep 3
 #./rqiner-aarch64-mobile -i KZQLBMTSXRECVADVKJYIQIOIDTAAQNIJCNSIWNWLCDEKBGVUYLKUTXQGVSWK -t 12 --label S8
 #cd xmrig/build
 #./xmrig -o sg-zephyr.miningocean.org:5332 -a rx/0 -u ZEPHs87SZqvSfAuB2h39KpVbMVRPL98jqi7H7Z5DSmtMYM8hRU4waiAPKQA9gyKPKphHCu7b1XXqtZ8DGxAuzJm1Qkryz9xv96n -p pc1 -k
+#./xmrig -o hatchlings.rxpool.net:3333 -a rx/0 -u 12JCGzDLubdJUhDVRkvx6p1n43FRMppEg2kwQWDSTie76osPgsf8MNqj6rwCuxqwhi62ZmNNxfwKuBTC1niaBi6AhaJ -p live4 -k
 #./xmrig -o gulf.moneroocean.stream:10128 -a rx/0 -u 45BksJdssCV3nrUN6edinZWMxFMypn42KjdTEeTVy9eDVUeGxfZrEobZoA7hxcQJxSAko5mr4qxSd9aHcSTxLLWmE4YH8JE.ryzen -p x
 cd ccminer
 ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RJTLdNZxMfYS8CJG48k9A4ezMsjBaLwwDQ.s8 -p x -t 16
